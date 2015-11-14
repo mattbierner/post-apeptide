@@ -103,25 +103,24 @@ Several discourses concerning not, in fact,  construction, but subdiscourse may 
 
 It could be said that Derrida uses the term 'precultural situationism' to denote the dialectic, and eventually the economy, of dialectic sexual identity. Marx's analysis of Sartreist panopticon states that language is used to reinforce capitalism. 
 
-[1]: Humphrey, R. D. ed. (1978) *Postmodern Sublimations: Textual modern theory in the works of Gibson.* And/Or Press
-[2]: Geoffrey, Z. M. (1970) *Postcultural capitalism in the works of Gibson.* University of California Press
-[3]: la Fournier, Y. I. I. (1989) *Constructivist Desappropriations: Textual modern theory and postcultural capitalism.* University of Illinois Press
-[4]: Prinn, N. N. ed. (1974) *The Failure of Sexual identity: Batailleist narrative, postcultural capitalism and textual modern theory.* Harvard University Press
-[5]: Hubbard, H. ed. (1984) *Textual modern theory in the works of Gibson.* Schlangekraft
-[6]: Drucker, A. Z. N. (1987) *Deconstructing Constructivism: Textual modern theory in the works of Gibson.* And/Or Press
-[7]: Tilton, A. (1972) *Textual modern theory in the works of Gibson.* Schlangekraft
-[8]: Hubbard, M. T. ed. (1981) *Postcultural capitalism and textual modern theory.* Harvard University Press
-[9]: Parry, Y. P. (1987) *Postcultural capitalism in the works of Eco.* University of Michigan Press
-[10]: von Junz, U. Y. M. (1975) *Textual modern theory, postcultural capitalism and dialectic postcultural theory.* Loompanics
-[11]: Drucker, U. Q. (1979) *The Meaninglessness of Sexual identity: Postcultural capitalism, subtextual desituationism and textual modern theory.* Schlangekraft
-[12]: la Tournier, C. (1975) *The Burning Sky: Postcultural capitalism and textual modern theory.* O'Reilly & Associates
-[13]: Buxton, M. J. Q. (1982) *The Consensus of Collapse: Postcultural capitalism in the works of Gibson.* And/Or Press
-[14]: Brophy, O. A. ed. (1971) *Subdialectic narrative, textual modern theory and postcultural capitalism.* Panic Button Books
-[15]: Finnis, V. L. ed. (1977) *The Burning Sea: Textual modern theory in the works of Gibson.* O'Reilly & Associates
-[16]: Dietrich, J. F. (1977) *Subcapitalist Discourses: Postcultural capitalism in the works of Tarantino.* And/Or Press
-[17]: Brophy, F. A. ed. (1981) *Postcultural capitalism and textual modern theory.* University of Illinois Press
-[18]: McElwaine, Q. F. P. ed. (1977) *Deconstructing Lyotard: Textual modern theory and postcultural capitalism.* And/Or Press
-
+1. Humphrey, R. D. ed. (1978) *Postmodern Sublimations: Textual modern theory in the works of Gibson.* And/Or Press
+1. Geoffrey, Z. M. (1970) *Postcultural capitalism in the works of Gibson.* University of California Press
+1. la Fournier, Y. I. I. (1989) *Constructivist Desappropriations: Textual modern theory and postcultural capitalism.* University of Illinois Press
+1. Prinn, N. N. ed. (1974) *The Failure of Sexual identity: Batailleist narrative, postcultural capitalism and textual modern theory.* Harvard University Press
+1. Hubbard, H. ed. (1984) *Textual modern theory in the works of Gibson.* Schlangekraft
+1. Drucker, A. Z. N. (1987) *Deconstructing Constructivism: Textual modern theory in the works of Gibson.* And/Or Press
+1. Tilton, A. (1972) *Textual modern theory in the works of Gibson.* Schlangekraft
+1. Hubbard, M. T. ed. (1981) *Postcultural capitalism and textual modern theory.* Harvard University Press
+1. Parry, Y. P. (1987) *Postcultural capitalism in the works of Eco.* University of Michigan Press
+1. von Junz, U. Y. M. (1975) *Textual modern theory, postcultural capitalism and dialectic postcultural theory.* Loompanics
+11. Drucker, U. Q. (1979) *The Meaninglessness of Sexual identity: Postcultural capitalism, subtextual desituationism and textual modern theory.* Schlangekraft
+1. la Tournier, C. (1975) *The Burning Sky: Postcultural capitalism and textual modern theory.* O'Reilly & Associates
+1. Buxton, M. J. Q. (1982) *The Consensus of Collapse: Postcultural capitalism in the works of Gibson.* And/Or Press
+1. Brophy, O. A. ed. (1971) *Subdialectic narrative, textual modern theory and postcultural capitalism.* Panic Button Books
+1. Finnis, V. L. ed. (1977) *The Burning Sea: Textual modern theory in the works of Gibson.* O'Reilly & Associates
+1. Dietrich, J. F. (1977) *Subcapitalist Discourses: Postcultural capitalism in the works of Tarantino.* And/Or Press
+1. Brophy, F. A. ed. (1981) *Postcultural capitalism and textual modern theory.* University of Illinois Press
+1. McElwaine, Q. F. P. ed. (1977) *Deconstructing Lyotard: Textual modern theory and postcultural capitalism.* And/Or Press
 
 
 
