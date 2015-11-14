@@ -13,8 +13,8 @@ $ node index.js
 # Example
 
 --------
-```
- Textual modern theory in the works of Gibson
+
+# Textual modern theory in the works of Gibson
 Michel Brophy Department of Literature, University of Massachusetts, Amherst
 Charles K. Drucker Department of Sociolinguistics, Oxford University
 Paul Humphrey Department of Ontology, Massachusetts Institute of Technology
@@ -121,7 +121,6 @@ It could be said that Derrida uses the term 'precultural situationism' to denote
 [16]: Dietrich, J. F. (1977) *Subcapitalist Discourses: Postcultural capitalism in the works of Tarantino.* And/Or Press
 [17]: Brophy, F. A. ed. (1981) *Postcultural capitalism and textual modern theory.* University of Illinois Press
 [18]: McElwaine, Q. F. P. ed. (1977) *Deconstructing Lyotard: Textual modern theory and postcultural capitalism.* And/Or Press
-```
 
 
 
