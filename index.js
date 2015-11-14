@@ -17,7 +17,10 @@ const md = require('apep-md');
 /**
     Sentence level capitalization.
 */
-const capitalize = (g) => pep_trans.capitalizeFirst(pep.join(g));
+const capFirst = (g) => pep_trans.capitalizeFirst(pep.join(g));
+
+const cap = (g) => pep_trans.capitalize(pep.join(g));
+
 
 const H2 = pep_sep.between('## ', '\n');
 
@@ -43,7 +46,7 @@ const PBRK = pep.str('\n\n');
 const output = pep.declare(() =>
     pep.seq(
        // PROLOGUE,
-        /*TITLE(*/ '\n# ', capitalize(title), '\n',
+        /*TITLE(*/ '\n# ', capFirst(title), '\n',
         formatted_authors, '\n\n',
         //BODY,
         sections
@@ -54,8 +57,8 @@ const output = pep.declare(() =>
 // Title
 const title = pep.declare(() =>
     pep.choice(
-        capitalize(title2),
-        [candid_title, ": ", capitalize(title2)]));
+        capFirst(title2),
+        [candid_title, ": ", capFirst(title2)]));
 
 const title2 = pep.declare(() =>
     pep.choice(
@@ -95,18 +98,18 @@ const p_three_term_title = (foo, bar, baz) =>
 
 const candid_title = pep.declare(() =>
     pep.choice(
-        [capitalize(doing_something_to), " ", intellectual],
-        [capitalize(adj), " ", abst_noun, capitalize(pluralise(abst_noun))],
-        ["The ", capitalize(concrete_adj), " ", capitalize(concrete_noun)],
-        ["The ", capitalize(something_of_2), " of ",
-            capitalize(big_nebulous_thing)],
-        ["The ", capitalize(something_of_2), " of ", capitalize(big_thing)],
-        ["The ", capitalize(big_nebulous_thing), " of ",
-            capitalize(something_of_2)],
-        [capitalize(pluralise(big_nebulous_thing)), " of ",
-            capitalize(something_of_2)],
-        [capitalize(doing_something_to_movement), " ",
-            capitalize(art_movement)]));
+        [capFirst(doing_something_to), " ", intellectual],
+        [capFirst(adj), " ", capFirst(pluralise(abst_noun))],
+        ["The ", capFirst(concrete_adj), " ", capFirst(concrete_noun)],
+        ["The ", capFirst(something_of_2), " of ",
+            capFirst(big_nebulous_thing)],
+        ["The ", capFirst(something_of_2), " of ", capFirst(big_thing)],
+        ["The ", capFirst(big_nebulous_thing), " of ",
+            capFirst(something_of_2)],
+        [capFirst(pluralise(big_nebulous_thing)), " of ",
+            capFirst(something_of_2)],
+        [capFirst(doing_something_to_movement), " ",
+            capFirst(art_movement)]));
 
 ////////////////////////////////////////////////////////////////////////////////
 // 
@@ -258,8 +261,8 @@ const paragraph = pep.declare(() =>
 // sentence
 const sentence = pep.declare(() =>
     pep.choice(
-        capitalize(sentence2),
-        [capitalize(preamble), sentence2]));
+        capFirst(sentence2),
+        [capFirst(preamble), sentence2]));
 
 const sentence2 = pep.declare(() =>
     pep.choice(
@@ -282,17 +285,17 @@ const sentence2 = pep.declare(() =>
 // Introduction sentences
 const p_intro_sent_thing_state = (th, st) =>
     pep.seq(
-        "\"", capitalize(th), " is ", st, '," says ', intellectual,
+        "\"", capFirst(th), " is ", st, '," says ', intellectual,
         "; however, according to ", pep_vars.setFrom('foo', generic_surname),
         footnote_cite(pep.get('foo')), ", it is not so much ", th, " that is ",
         st, ", but rather the ", something_of, " of ", th, ". ");
 
 const intro_sentence = pep.declare(() =>
-    capitalize(intro_sentence2));
+    capFirst(intro_sentence2));
 
 const intro_sentence2 = pep.declare(() =>
     pep.choice(
-        ['"', capitalize(pseudo_quote), '," says ', intellectual, ". "],
+        ['"', capFirst(pseudo_quote), '," says ', intellectual, ". "],
         [p_intro_sent_thing_state(big_thing, state_of_being)],
 	    ["If one examines ", term, ", one is faced with a choice: either ",
             accept_or_reject, " ", term, " or conclude that ", result, ". "],
@@ -666,9 +669,9 @@ const source = pep.choice(
 const term = pep.declare(() =>
     pep.choice(
         new_term,
-        pep_vars.store('v_subject', new_term),
-        pep_vars.store('v_subject2', new_term),
-        pep_vars.store('v_subject2', new_term)));
+        pep_vars.store('vSubject', new_term),
+        pep_vars.store('vSubject2', new_term),
+        pep_vars.store('vSubject2', new_term)));
 
 const new_term = pep.declare(() =>
     pep.choice(
@@ -680,7 +683,7 @@ const new_term = pep.declare(() =>
         [adj, " ", ideology]));
 
 const p_intell_term = (i) =>
-    pep.chain(i, x => pep.seq("ist ", make_concepts(x)));
+    pep.chain(i, x => pep.seq(i, "ist ", make_concepts(pep.lit(x))));
 
 const ideology = pep.choice(
     "capitalism",
@@ -1016,8 +1019,8 @@ const publisher = pep.declare(() =>
 
 const footnote_cite_text = (surname) =>
     pep.seq(
-        surname, ', ', initials, pep.opt('ed. '), '(', year, ') ',
-        md.italic(pep.seq(title, '.')), " ", publisher);
+        ' <', surname, ', ', initials, pep.opt('ed. '), '(', year, ') ',
+        md.italic(pep.seq(title, '.')), " ", publisher, '>');
 
 const footnote_cite = (surname) =>
     /*FOOTNOTE*/footnote_cite_text(surname);
