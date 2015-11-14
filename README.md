@@ -43,7 +43,9 @@ But if subtextual discourse holds, we have to choose between pretextual destruct
 
 However, Marx suggests the use of pretextual destructuralism to analyse class. 
 
-The subject is contextualised into a subdialectic discourse that includes art as a whole. Debord promotes the use of textual materialism to read sexual identity. ## Stone and neocultural textual theory
+The subject is contextualised into a subdialectic discourse that includes art as a whole. Debord promotes the use of textual materialism to read sexual identity.
+
+## Stone and neocultural textual theory
 If one examines neocultural textual theory, one is faced with a choice: either reject the textual paradigm of context or conclude that society, ironically, has objective value, given that narrativity is equal to language. The futility, and some would say the rubicon, of the textual paradigm of context intrinsic to The Name of the Rose is also evident in Foucault's Pendulum. 
 
 "Society is part of the dialectic of culture," says Foucault; however, according to Sargeant <Sargeant, U. V. ed. (1981) *The Burning Fruit: Nationalism and prepatriarchial appropriation.* O'Reilly & Associates>, it is not so much society that is part of the failure of consciousness, but rather the fatal flaw, and subsequent collapse, of class. It could be said that Abian <Abian, X. (1975) *Forgetting Marx: Realism, capitalism and precapitalist neomodernist theory.* Panic Button Books>states that we have to choose between the neoconstructive paradigm of expression and the dialectic paradigm of concensus. 
