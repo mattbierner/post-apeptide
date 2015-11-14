@@ -13,69 +13,115 @@ $ node index.js
 # Example
 
 --------
+```
+ Textual modern theory in the works of Gibson
+Michel Brophy Department of Literature, University of Massachusetts, Amherst
+Charles K. Drucker Department of Sociolinguistics, Oxford University
+Paul Humphrey Department of Ontology, Massachusetts Institute of Technology
 
-# The Iron Sea: Socialism, socialist realism and capitalist dialectic theory
+## textual modern theory and Debordist camp
+In the works of Gibson, a predominant concept is the concept of textual language. But the characteristic theme of the works of Gibson is the role of the writer as artist. In a sense, the main theme of Humphrey's [1] model of textual modern theory is a mythopoetical whole. 
 
-Charles X. X. Abian Department of Literature, Cambridge University
+Thus, a number of theories concerning the futility, and some would say the stasis, of dialectic sexual identity may be found. The subject is contextualised into a textual modern theory that includes truth as a whole. The characteristic theme of the works of Gibson is not sublimation, as Derrida would have it, but subtheory. In a sense, Debord suggests the use of modern textual theory to attack and modify class. The subject is interpolated into a postcultural capitalism that includes culture as a paradox. Thus, Lacan's analysis of postcultural capitalism holds that discourse is a product of communication, but only if postcapitalist deconstruction is invalid; otherwise, Foucault's model of textual modern theory is one of "postdialectic materialism", and therefore meaningless. Marx suggests the use of textual modern theory to read sexual identity. In a sense, the primary theme of Geoffrey's [2] analysis of postcultural capitalism is not discourse, as textual modern theory suggests, but neoconstruction. Marx's analysis of subcapitalist narrative holds that language has significance, given that language is distinct from reality. In a sense, if the constructivist paradigm of context holds, we have to choose between textual modern theory and subtextual deappropriation. 
 
-## Burroughs and neocapitalist situationism
-"Sexual identity is part of the rubicon of sexuality," says Debord; however, according to Drucker <Drucker, B. V. (1971) *Postcultural dematerialism in the works of Spelling.* Oxford University Press>, it is not so much society that is elitist, but rather the meaninglessness, and subsequent collapse, of sexual identity. Lyotard promotes the use of prepatriarchial rationalism to challenge sexism. The constructive paradigm of expression suggests that sexuality is capable of intention, but only if Foucault's analysis of precultural discourse is invalid. Thus, Baudrillard's essay on cultural appropriation states that the raison d'etre of the participant is significant form, but only if the premise of structuralist desituationism is valid. 
+The primary theme of la Fournier's [3] essay on precultural posttextual theory is not, in fact,  narrative, but neonarrative. But the subject is contextualised into a textual modern theory that includes language as a totality. 
 
-In the works of Madonna, a predominant concept is the concept of patriarchialist truth. In Material Girl, Madonna deconstructs the pretextual paradigm of discourse; in Vineland, although,  Pynchon reiterates modern objectivism. Finnis <Finnis, X. T. X. ed. (1983) *The Forgotten Sea: Dialectic rationalism and textual theory.* Loompanics>holds that we have to choose between cultural theory and the semioticist paradigm of narrative. Several discourses concerning textual theory may be revealed. Lyotard uses the term 'cultural deconceptualism' to denote a mythopoetical reality. Marx promotes the use of neocultural narrative to deconstruct the status quo. Sartre uses the term 'textual textual theory' to denote not narrative as such, but pretheory. Bataille's model of the subsemiotic paradigm of discourse states that narrativity is part of the defining characteristic of narrativity, given that the premise of neocultural narrative is invalid. 
+## Gibson and textual modern theory
+The main theme of the works of Gibson is the difference between class and language. In a sense, in Virtual Light, Gibson denies postcultural capitalism; in Neuromancer  Gibson denies textual modern theory. 
 
-If one examines textual materialism, one is faced with a choice: either accept postcapitalist theory or conclude that society, surprisingly, has objective value, but only if the premise of patriarchial desublimation is valid; otherwise, class, surprisingly, has objective value. Therefore, the primary theme of the works of Burroughs is a self-falsifying reality. It could be said that a number of narratives concerning a self-supporting reality may be revealed. Any number of appropriations concerning postcultural discourse may be revealed. The subject is interpolated into a subcultural theory that includes language as a paradox. 
+"Sexual identity is meaningless," says Baudrillard; however, according to Prinn [4] , it is not so much society that is unattainable, but rather the dialectic, and some would say the genre, of culture. The subject is contextualised into a postcultural capitalism that includes consciousness as a paradox. Sontag suggests the use of textual modern theory to deconstruct hierarchy. But Hubbard [5] suggests that we have to choose between textual modern theory and postcultural capitalism. The primary theme of Drucker's [6] critique of textual modern theory is a modernist totality. 
 
-The characteristic theme of the works of Joyce is not, in fact,  theory, but neosublimation. If capitalist subcapitalist theory holds, the works of Joyce are not postmodern. However, the premise of Foucaultist camp implies that sexuality is intrinsically elitist. 
+In the works of Gibson, a predominant concept is the distinction between feminine and masculine. An abundance of desconstructions concerning prepatriarchialist patriarchialism exist. Therefore, Foucault suggests the use of textual modern theory to attack sexism. 
 
-If one examines Foucaultist camp, one is faced with a choice: either reject Derridaist existentialism or conclude that context is created by the masses, given that the premise of Foucaultist camp is valid. Therefore, many dessemanticsisms concerning a mythopoetical reality may be found. 
+"Class is fundamentally elitist," says Bataille; however, according to Tilton [7] , it is not so much society that is fundamentally meaningless, but rather the meaninglessness, and eventually the paradigm, of class. In a sense, the primary theme of the works of Gibson is the role of the reader as writer. If postcultural capitalism holds, the works of Gibson are modernistic. But Debord uses the term 'subtextual discourse' to denote a neocultural totality. 
 
-The subject is interpolated into a neotextual libertarianism that includes narrativity as a whole. 
+"Sexuality is part of the meaninglessness of consciousness," says Lacan. Thus, if textual modern theory holds, we have to choose between subtextual deconstruction and textual modern theory. Derrida promotes the use of textual modern theory to attack class. Therefore, Debord suggests the use of the neotextual paradigm of expression to analyse and read class. 
 
-If the cultural paradigm of concensus holds, we have to choose between the cultural paradigm of concensus and poststructural materialism. 
+If one examines semioticist narrative, one is faced with a choice: either reject textual modern theory or conclude that the law is capable of intentionality. In a sense, the example of textual modern theory prevalent in Mona Lisa Overdrive is also evident in Virtual Light, although in a more self-justifying sense. 
 
---------
+Bataille promotes the use of postcultural capitalism to challenge capitalism. Derrida suggests the use of textual modern theory to challenge hierarchy. The primary theme of Hubbard's [8] critique of postcultural capitalism is the futility, and eventually the defining characteristic, of prematerial class. Therefore, an abundance of discourses concerning not discourse, as Lacan would have it, but postdiscourse may be revealed. But in Neuromancer, Gibson reiterates postcultural capitalism; in The Burning Chrome, however,  Gibson deconstructs neocultural theory. 
 
-It could be said that Bataille promotes the use of Foucaultist obscurity to modify and modify society. The genre, and thus the fatal flaw, of neocultural nihilism prevalent in Melrose Place is also evident in Melrose Place, although in a more mythopoetical sense. 
-
-Constructive discourse states that sexuality is part of the paradigm of truth, given that Sontag's analysis of constructive discourse is invalid. 
-
-But if subtextual discourse holds, we have to choose between pretextual destructuralism and pretextual destructuralism. Several materialisms concerning pretextual destructuralism may be discovered. 
-
-However, Marx suggests the use of pretextual destructuralism to analyse class. 
-
-The subject is contextualised into a subdialectic discourse that includes art as a whole. Debord promotes the use of textual materialism to read sexual identity.
-
-## Stone and neocultural textual theory
-If one examines neocultural textual theory, one is faced with a choice: either reject the textual paradigm of context or conclude that society, ironically, has objective value, given that narrativity is equal to language. The futility, and some would say the rubicon, of the textual paradigm of context intrinsic to The Name of the Rose is also evident in Foucault's Pendulum. 
-
-"Society is part of the dialectic of culture," says Foucault; however, according to Sargeant <Sargeant, U. V. ed. (1981) *The Burning Fruit: Nationalism and prepatriarchial appropriation.* O'Reilly & Associates>, it is not so much society that is part of the failure of consciousness, but rather the fatal flaw, and subsequent collapse, of class. It could be said that Abian <Abian, X. (1975) *Forgetting Marx: Realism, capitalism and precapitalist neomodernist theory.* Panic Button Books>states that we have to choose between the neoconstructive paradigm of expression and the dialectic paradigm of concensus. 
-
-If one examines neotextual textual theory, one is faced with a choice: either reject subconstructivist theory or conclude that government is impossible. However, Lacan's analysis of patriarchialist postdialectic theory states that culture is used to reinforce hierarchy. In a sense, the primary theme of Scuglia's <Scuglia, R. F. ed. (1975) *Neomodernist capitalism in the works of Stone.* Yale University Press>critique of neomodernist capitalism is the common ground between society and society. Several desstructuralsisms concerning capitalist theory exist. 
-
-"Class is intrinsically a legal fiction," says Sontag. Bataille uses the term 'capitalist theory' to denote the futility of subcultural reality. 
-
-In the works of Eco, a predominant concept is the concept of cultural consciousness. It could be said that if the submaterial paradigm of expression holds, the works of Eco are not postmodern. 
-
-In the works of Eco, a predominant concept is the distinction between figure and ground. It could be said that Dahmus <Dahmus, H. O. ed. (1970) *Precapitalist materialism in the works of Rushdie.* University of Oregon Press>holds that we have to choose between dialectic discourse and the subdialectic paradigm of discourse. Thus, the masculine/without distinction which is a central theme of Midnight's Children is also evident in Satanic Verses. If dialectic Marxism holds, we have to choose between cultural deappropriation and dialectic Marxism. 
-
-However, Lacan uses the term 'dialectic Marxism' to denote not situationism per se, but subdesituationism. 
-
-The subject is contextualised into a premodern deconstructivism that includes language as a whole. 
+An abundance of theories concerning the difference between society and society may be revealed. The premise of postcultural capitalism implies that reality is created by the collective unconscious. Any number of appropriations concerning textual modern theory may be discovered. Debord uses the term 'textual modern theory' to denote the meaninglessness, and some would say the futility, of cultural sexual identity. 
 
 --------
 
-The premise of textual capitalism implies that narrativity has objective value. 
+The example of postcultural capitalism which is a central theme of Virtual Light is also evident in The Burning Chrome. 
 
-But the main theme of the works of Rushdie is not dedeconstructivism as such, but postdeappropriation. But Sartre uses the term 'postcapitalist discourse' to denote the futility, and subsequent rubicon, of postsemanticist class. However, Debord's model of Derridaist obscurity holds that academe is capable of significance, given that reality is distinct from consciousness. Marx promotes the use of Baudrillardist narrative to read language. 
+Bataille suggests the use of textual modern theory to deconstruct the status quo. But in Mona Lisa Overdrive, Gibson denies textual modern theory; in Mona Lisa Overdrive, however,  Gibson reiterates precultural situationism. 
 
-Marx suggests the use of subcapitalist theory to attack and attack sexuality. In a sense, Finnis <Finnis, X. X. Q. ed. (1984) *The Narrative of Defining characteristic: Sartreist 'powerful communication' and rationalism.* O'Reilly & Associates>holds that we have to choose between Foucaultist narrative and neomodernist discourse. However, Sartre uses the term 'precapitalist nationalism' to denote the bridge between society and society. The characteristic theme of the works of Pynchon is not narrative per se, but prenarrative. The genre, and subsequent defining characteristic, of postconstructivist socialism which is a central theme of Gravity's Rainbow is also evident in The Crying of Lot 49, although in a more mythopoetical sense. But constructivist subcultural theory suggests that the purpose of the writer is deconstruction. 
+But Parry [9] states that we have to choose between textual modern theory and postcultural capitalism. The primary theme of von Junz's [10] essay on postcultural capitalism is the absurdity, and subsequent failure, of constructivist sexual identity. The primary theme of the works of Gibson is a mythopoetical whole. 
 
-However, Lacan uses the term 'constructivist subcultural theory' to denote a self-justifying reality. It could be said that the subject is interpolated into a constructivist subcultural theory that includes sexuality as a totality. In a sense, Lyotard uses the term 'constructivist subcultural theory' to denote the fatal flaw of dialectic sexual identity. 
+The subject is interpolated into a textual modern theory that includes art as a reality. Sontag promotes the use of textual modern theory to read sexual identity. Therefore, the main theme of Drucker's [11] critique of textual modern theory is not deconstruction, as textual modern theory suggests, but subnarrative. In Virtual Light, Gibson analyses textual modern theory; in Virtual Light, however,  Gibson examines posttextual theory. In a sense, the characteristic theme of the works of Gibson is the bridge between society and class. 
 
-Pickett <Pickett, G. G. ed. (1985) *Material Discourses: Subdialectic capitalist theory in the works of Joyce.* Panic Button Books>suggests that we have to choose between prepatriarchial appropriation and capitalist posttextual theory. 
+Derrida uses the term 'textual modern theory' to denote the role of the artist as participant. The primary theme of la Tournier's [12] analysis of Foucaultist absurdity is a cultural reality. 
 
-The characteristic theme of the works of Spelling is the dialectic, and thus the stasis, of neodialectic art. It could be said that Marx uses the term 'capitalist Marxism' to denote not discourse as such, but submodernism. 
+Sartre uses the term 'textual modern theory' to denote the dialectic, and eventually the meaninglessness, of semantic society. 
 
+## Gibson and textual modern theory
+"Class is used in the service of capitalism," says Lacan; however, according to Buxton [13] , it is not so much class that is intrinsically a legal fiction, but rather the meaninglessness of art. If capitalist deappropriation holds, the works of Gibson are empowering. Derrida promotes the use of textual modern theory to challenge the status quo. 
+
+In the works of Gibson, a predominant concept is the concept of capitalist truth. The characteristic theme of the works of Gibson is the role of the writer as observer. But the main theme of Brophy's [14] analysis of textual modern theory is not deappropriation, but subtheory. However, the characteristic theme of Finnis's [15] analysis of textual modern theory is the difference between class and society. However, Derrida uses the term 'textual modern theory' to denote not, in fact,  materialism, but neonarrative. 
+
+"Sexual identity is part of the paradigm of reality," says Lyotard. Sartre uses the term 'textual modern theory' to denote a mythopoetical reality. Sartre suggests the use of semanticist narrative to attack class divisions. 
+
+The primary theme of Dietrich's [16] critique of postcultural capitalism is the difference between class and reality. Therefore, if postcultural capitalism holds, we have to choose between postcultural capitalism and textual modern theory. 
+
+If one examines textual modern theory, one is faced with a choice: either accept Sartreist camp or conclude that the collective is capable of truth, but only if narrativity is interchangeable with truth; if that is not the case, art is intrinsically a legal fiction. However, several narratives concerning textual modern theory exist. 
+
+If one examines textual modern theory, one is faced with a choice: either accept postcultural capitalism or conclude that sexuality is part of the absurdity of consciousness, given that culture is distinct from truth. However, any number of sublimations concerning postcultural capitalism may be discovered. 
+
+The main theme of the works of Gibson is the role of the observer as writer. The opening/closing distinction intrinsic to Neuromancer is also evident in Virtual Light. Lacan uses the term 'textual modern theory' to denote not, in fact,  demodernism, but subdesublimation. In a sense, Brophy [17] holds that the works of Gibson are not postmodern. 
+
+"Class is fundamentally a legal fiction," says Lacan. If the cultural paradigm of context holds, we have to choose between textual modern theory and textual modern theory. Bataille promotes the use of textual modern theory to challenge sexism. Sartre uses the term 'pretextual modernist theory' to denote not discourse, but subdeconstruction. Therefore, Sontag uses the term 'textual modern theory' to denote the role of the writer as participant. Many materialisms concerning postcultural capitalism may be discovered. However, the premise of textual modern theory suggests that the media is impossible, given that truth is interchangeable with narrativity. However, if textual modern theory holds, the works of Gibson are reminiscent of Cage. The subject is contextualised into a textual modern theory that includes sexuality as a reality. In a sense, Lyotard uses the term 'postcultural capitalism' to denote the role of the poet as observer. In a sense, the subject is interpolated into a postcultural capitalism that includes truth as a paradox. The primary theme of the works of Gibson is the common ground between class and society. 
+
+Baudrillard uses the term 'textual modern theory' to denote not semanticism, but subdematerialism. Several theories concerning not construction, as postcultural capitalism suggests, but postnarrative may be revealed. 
+
+If textual modern theory holds, we have to choose between postcultural capitalism and textual modern theory. 
+
+--------
+
+The neotextual paradigm of reality suggests that the goal of the poet is social comment, given that postcultural capitalism is invalid. 
+
+Bataille suggests the use of Sontagist obscurity to deconstruct sexism. It could be said that the example of cultural neocultural theory prevalent in Virtual Light is also evident in Mona Lisa Overdrive, although in a more mythopoetical sense. However, an abundance of narratives concerning the bridge between society and sexual identity may be found. 
+
+Debord's model of the neomodern paradigm of narrative holds that language is a legal fiction. 
+
+But the closing/ground distinction intrinsic to Virtual Light emerges again in The Burning Chrome. 
+
+Thus, the main theme of McElwaine's [18] analysis of cultural discourse is a self-justifying reality. 
+
+It could be said that Foucault suggests the use of textual modern theory to read class. 
+
+If patriarchial libertarianism holds, the works of Gibson are an example of semanticist nationalism. It could be said that Foucault uses the term 'neopatriarchial narrative' to denote the stasis of cultural class. 
+
+Therefore, an abundance of situationisms concerning not, in fact,  narrative, but subnarrative exist. But Foucault's model of neodialectic materialism suggests that the law is capable of significance. 
+
+## Gibson and textual modern theory
+"Class is intrinsically dead," says Derrida. In a sense, if postcultural capitalism holds, we have to choose between Debordist reading and Batailleist camp. An abundance of desmaterialisms concerning textual modern theory exist. 
+
+Several discourses concerning not, in fact,  construction, but subdiscourse may be revealed. 
+
+It could be said that Derrida uses the term 'precultural situationism' to denote the dialectic, and eventually the economy, of dialectic sexual identity. Marx's analysis of Sartreist panopticon states that language is used to reinforce capitalism. 
+
+[1]: Humphrey, R. D. ed. (1978) *Postmodern Sublimations: Textual modern theory in the works of Gibson.* And/Or Press
+[2]: Geoffrey, Z. M. (1970) *Postcultural capitalism in the works of Gibson.* University of California Press
+[3]: la Fournier, Y. I. I. (1989) *Constructivist Desappropriations: Textual modern theory and postcultural capitalism.* University of Illinois Press
+[4]: Prinn, N. N. ed. (1974) *The Failure of Sexual identity: Batailleist narrative, postcultural capitalism and textual modern theory.* Harvard University Press
+[5]: Hubbard, H. ed. (1984) *Textual modern theory in the works of Gibson.* Schlangekraft
+[6]: Drucker, A. Z. N. (1987) *Deconstructing Constructivism: Textual modern theory in the works of Gibson.* And/Or Press
+[7]: Tilton, A. (1972) *Textual modern theory in the works of Gibson.* Schlangekraft
+[8]: Hubbard, M. T. ed. (1981) *Postcultural capitalism and textual modern theory.* Harvard University Press
+[9]: Parry, Y. P. (1987) *Postcultural capitalism in the works of Eco.* University of Michigan Press
+[10]: von Junz, U. Y. M. (1975) *Textual modern theory, postcultural capitalism and dialectic postcultural theory.* Loompanics
+[11]: Drucker, U. Q. (1979) *The Meaninglessness of Sexual identity: Postcultural capitalism, subtextual desituationism and textual modern theory.* Schlangekraft
+[12]: la Tournier, C. (1975) *The Burning Sky: Postcultural capitalism and textual modern theory.* O'Reilly & Associates
+[13]: Buxton, M. J. Q. (1982) *The Consensus of Collapse: Postcultural capitalism in the works of Gibson.* And/Or Press
+[14]: Brophy, O. A. ed. (1971) *Subdialectic narrative, textual modern theory and postcultural capitalism.* Panic Button Books
+[15]: Finnis, V. L. ed. (1977) *The Burning Sea: Textual modern theory in the works of Gibson.* O'Reilly & Associates
+[16]: Dietrich, J. F. (1977) *Subcapitalist Discourses: Postcultural capitalism in the works of Tarantino.* And/Or Press
+[17]: Brophy, F. A. ed. (1981) *Postcultural capitalism and textual modern theory.* University of Illinois Press
+[18]: McElwaine, Q. F. P. ed. (1977) *Deconstructing Lyotard: Textual modern theory and postcultural capitalism.* And/Or Press
+```
 
 
 

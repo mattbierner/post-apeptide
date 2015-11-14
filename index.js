@@ -18,8 +18,28 @@ const md = require('apep-md');
     Sentence level capitalization.
 */
 const capFirst = (g) => pep_trans.capitalizeFirst(pep.join(g));
-
 const cap = (g) => pep_trans.capitalize(pep.join(g));
+
+/**
+    Registing a footnotes
+*/
+const getFootnotes = pep.get('footnotes');
+
+const addFootnote = (g) =>
+    pep.chain(pep.join(g), value =>
+        getFootnotes.chain(footnotes =>
+            pep.seq(
+                pep.set('footnotes', (footnotes || []).concat([value])),
+                pep.seq(' [', footnotes.length + 1, '] '))));
+
+
+const formattedFootnotes = getFootnotes.chain(footnotes => {
+    const defs = (footnotes || []).map((x, i) =>
+        md.linkDefinition(i + 1, x));
+    if (defs.length === 0)
+        return pep.empty;
+    return pep_sep.sepBy.apply(null, ['\n'].concat(defs))
+});
 
 ////////////////////////////////////////////////////////////////////////////////
 // Transforms
@@ -46,7 +66,9 @@ const output = pep.declare(() =>
         /*TITLE(*/md.h1(capFirst(title)),
         formatted_authors, '\n\n',
         //BODY,
-        sections
+        sections,
+        '\n\n',
+        formattedFootnotes
         //EPILOGUE
         ));
 
@@ -1035,11 +1057,11 @@ const publisher = pep.declare(() =>
 
 const footnote_cite_text = (surname) =>
     pep.seq(
-        ' <', surname, ', ', initials, pep.opt('ed. '), '(', year, ') ',
-        md.italic(pep.seq(title, '.')), " ", publisher, '>');
+        surname, ', ', initials, pep.opt('ed. '), '(', year, ') ',
+        md.italic(pep.seq(title, '.')), " ", publisher);
 
 const footnote_cite = (surname) =>
-    /*FOOTNOTE*/footnote_cite_text(surname);
+    addFootnote(footnote_cite_text(surname));
 
 
 const idea_source = pep.declare(() =>
