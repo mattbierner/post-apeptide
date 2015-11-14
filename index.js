@@ -816,22 +816,21 @@ const work_about = pep.choice(
     
 ////////////////////////////////////////////////////////////////////////////////
 // Things
-const big_thing = pep.declare(() =>
-    pep.choice(
-        "society",
-        "class",
-        big_abst_thing,
-        "sexual identity"));
-
 const big_abst_thing = pep.choice(
-        "culture",
-        "language",
-        "art",
-        "reality",
-        "truth",
-        "sexuality",
-        "narrativity",
-        "consciousness");
+    "culture",
+    "language",
+    "art",
+    "reality",
+    "truth",
+    "sexuality",
+    "narrativity",
+    "consciousness");
+
+const big_thing = pep.choice(
+    "society",
+    "class",
+    big_abst_thing,
+    "sexual identity");
 
 const institution = pep.choice(
     "the Constitution",
@@ -843,38 +842,58 @@ const institution = pep.choice(
     "the collective",
     "the establishment");
 
-const big_abst_or_institution = pep.declare(() =>
-    pep.choice(
-        big_abst_thing,
-        institution));
+const big_abst_or_institution = pep.choice(
+    big_abst_thing,
+    institution);
 
 const big_nebulous_thing = pep.choice(
-    "reality", "discourse", "concensus", "expression", "narrative", "context"); 
+    "reality",
+    "discourse",
+    "consensus",
+    "expression",
+    "narrative",
+    "context"); 
 
 const big_singular_thing = pep.choice(
-    "reality", "whole", "paradox", "totality");
+    "reality",
+    "whole",
+    "paradox",
+    "totality");
 
-const abst_concept = pep.choice("domination", "difference");
+const abst_concept = pep.choice(
+    "domination", 
+    "difference");
 
 const purpose_word = pep.choice(
-    "purpose", "goal", "raison d'etre", "task", "significance");
+    "purpose",
+    "goal",
+    "raison d'etre",
+    "task",
+    "significance");
 
 const role = pep.choice(
-    "artist", "observer", "participant", "reader", "poet", "writer");
+    "artist", 
+    "observer", 
+    "participant",
+    "reader",
+    "poet",
+    "writer");
 
 const goal = pep.choice(
     "significant form",
     "deconstruction",
     "social comment");
 
-const capability = pep.declare(() =>
-    pep.choice(
-        goal,
-        intent_variant,
-        "truth",
-        "significance"));
+const intent_variant = pep.choice(
+    "intent",
+    "intention", 
+    "intentionality");
 
-const intent_variant = pep.choice( "intent", "intention", "intentionality");
+const capability = pep.choice(
+    goal,
+    intent_variant,
+    "truth",
+    "significance");
 
 const dualisable_word = pep.choice(
     "opening",
