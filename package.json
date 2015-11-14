@@ -21,6 +21,6 @@
         "apep-std-sep": "^0.0.2",
 	    "apep-std-transformations": "^0.1.0",
         "apep-std-vars": "^0.1.0",
-        "apep-md": "^0.0.1"
+        "apep-md": "^0.1.0"
     }
 }

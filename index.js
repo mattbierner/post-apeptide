@@ -21,9 +21,6 @@ const capFirst = (g) => pep_trans.capitalizeFirst(pep.join(g));
 
 const cap = (g) => pep_trans.capitalize(pep.join(g));
 
-
-const H2 = pep_sep.between('## ', '\n');
-
 ////////////////////////////////////////////////////////////////////////////////
 // Transforms
 const trim_e = pep_trans.replace(/e$/, '');
@@ -46,7 +43,7 @@ const PBRK = pep.str('\n\n');
 const output = pep.declare(() =>
     pep.seq(
        // PROLOGUE,
-        /*TITLE(*/ '\n# ', capFirst(title), '\n',
+        /*TITLE(*/md.h1(capFirst(title)),
         formatted_authors, '\n\n',
         //BODY,
         sections
@@ -202,11 +199,11 @@ const something_university = pep.choice(
 ////////////////////////////////////////////////////////////////////////////////
 // Sections
 const sections = pep.declare(() =>
-    pep.many1(section));
+    pep_sep.sepMany1('\n\n', section));
 
 const section = pep.declare(() =>
     pep.seq(
-        H2(section_title),
+        md.h2(section_title),
         paragraphs));
 
 const section_title = pep.declare(() =>
