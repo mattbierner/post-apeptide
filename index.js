@@ -35,7 +35,7 @@ const addFootnote = (g) =>
 
 const formattedFootnotes = getFootnotes.chain(footnotes => {
     const defs = (footnotes || []).map((x, i) =>
-        md.linkDefinition(i + 1, x));
+        pep.seq(i + 1, '. ', x));
     if (defs.length === 0)
         return pep.empty;
     return pep_sep.sepBy.apply(null, ['\n'].concat(defs))
